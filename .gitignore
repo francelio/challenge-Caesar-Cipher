@@ -132,3 +132,8 @@ $RECYCLE.BIN/
 .DS_Store
 
 _NCrunch*
+.vs/CaesarCipher/v15/Server/sqlite3/storage.ide
+.vs/CaesarCipher/v15/Server/sqlite3/storage.ide-shm
+.vs/CaesarCipher/v15/Server/sqlite3/storage.ide-wal
+.vs/CaesarCipher/v15/Server/sqlite3/storage.ide
+.vs/CaesarCipher/v15/Server/sqlite3/db.lock
